@@ -42,10 +42,14 @@ jobs:
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: Build HTML
-        run: npm run build # Asegúrate de que este comando compile los estilos de Tailwind
+      # Build TailwindCSS first
       - name: Build TailwindCSS
-        run: npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css 
+        run: npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css
+
+      # If you still need npm run build, keep it, but make sure it doesn't conflict with Tailwind
+      - name: Build HTML
+        run: npm run build # Ensure this step doesn't recompile CSS if Tailwind is already compiled
+
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
