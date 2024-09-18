@@ -156,7 +156,7 @@ menu:
       weight: 10
     - identifier: about
       name: Valores de la empresa
-      url: /maestrotaquero/valores-equipo
+      url: /maestrotaquero/posiciones/valores-equipo
       weight: 20
     - identifier: categories
       pre: dropdown
