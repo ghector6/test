@@ -5,7 +5,7 @@ DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
-canonifyURLs: true
+canonifyURLs: false
 paginate: 6
 darkmode_js:
   - assets/js/darkmode.js
