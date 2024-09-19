@@ -5,7 +5,7 @@ DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
-canonifyURLs: true
+canonifyURLs: false
 paginate: 6
 darkmode_js:
   - assets/js/darkmode.js
@@ -152,7 +152,7 @@ menu:
   main:
     - identifier: prose
       name: Puestos
-      url: /test/categories/blog/
+      url: /categories/blog/
       weight: 10
     - identifier: about
       name: Valores de la empresa
