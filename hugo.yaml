@@ -1,11 +1,11 @@
-baseURL: 'https://ghector6.github.io/test/'
+baseURL: 'https://ghector6.github.io/'
 title: Maestro Taquero
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
-canonifyURLs: false
+canonifyURLs: true
 paginate: 6
 darkmode_js:
   - assets/js/darkmode.js
@@ -156,7 +156,7 @@ menu:
       weight: 10
     - identifier: about
       name: Valores de la empresa
-      url: /test/maestrotaquero/posiciones/valores-equipo
+      url: /maestrotaquero/posiciones/valores-equipo
       weight: 20
     - identifier: categories
       pre: dropdown
