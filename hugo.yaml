@@ -152,11 +152,11 @@ menu:
   main:
     - identifier: prose
       name: Puestos
-      url: /categories/blog/
+      url: /test/categories/blog/
       weight: 10
     - identifier: about
       name: Valores de la empresa
-      url: /maestrotaquero/posiciones/valores-equipo
+      url: /test/maestrotaquero/posiciones/valores-equipo
       weight: 20
     - identifier: categories
       pre: dropdown
@@ -173,7 +173,7 @@ menu:
   categories:
     - identifier: prose
       name: Puestos
-      url: /categories/blog/
+      url: /blog/
       weight: 10
     - identifier: about
       name: Reclutamiento
