@@ -3,7 +3,7 @@ title: "Ayudante General"
 date: 2022-06-18T11:10:36+08:00
 draft: false
 language: en
-featured_image: images/featured/blogcard.png
+featured_image: ../../images/featured/blogcard.png
 summary: Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.
 description: Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.
 author: Meastro Taquero
