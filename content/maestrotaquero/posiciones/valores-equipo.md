@@ -4,7 +4,7 @@ date: 2021-12-18T11:10:36+08:00
 draft: false
 language: es
 description: Valores del equipo
-featured_image: ../assets/images/featured/valores-equipo.webp
+featured_image: /images/featured/valores-equipo.webp
 layout: "maestrotaquero"
 ---
 ## Habilidades y cultura del grupo
