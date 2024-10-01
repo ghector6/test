@@ -135,16 +135,16 @@ params:
 
   social_media:
     github:
-      enabled: true
+      enabled: false
       url: 'https://github.com/nusserstudios'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/maestrotaquerocondesa/'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.instagram.com/maestrotaquero_/?hl=es'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/nusserstudios'
 
 
