@@ -6,7 +6,7 @@
     <description>Recent content on Maestro Taquero</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 21:44:42 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:14:29 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alineacion</title>
@@ -17,269 +17,381 @@
     </item>
     <item>
       <title>Ayudante general</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</link>
+      <link>http://localhost:1313/test/reclutamiento/ayudante-general/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</guid>
-      <description>Ayudante General</description>
-    </item>
-    <item>
-      <title>Ayudante General</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/comodin/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/comodin/</guid>
-      <description>Apoyar en las áreas del restaurante para la óptima operación.</description>
+      <guid>http://localhost:1313/test/reclutamiento/ayudante-general/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Barback</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/barback/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/barback/</guid>
-      <description>Apoyar a todo el personal de barra en las tareas que se requieran.</description>
+      <link>http://localhost:1313/test/maestrotaquero/barback/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/barback/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Barback</title>
+      <link>http://localhost:1313/test/reclutamiento/barback/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/barback/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Bartender</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/bartender/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/bartender/</guid>
-      <description>Ejecutar en tiempo y forma las diferentes bebidas y productos de esta área.</description>
+      <link>http://localhost:1313/test/maestrotaquero/bartender/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/bartender/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Bartender</title>
+      <link>http://localhost:1313/test/reclutamiento/bartender/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/bartender/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Cajero</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/cajero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/cajero/</guid>
-      <description>Administrar las operaciones de caja de manera correcta y eficiente, manteniendo el control de los recursos.</description>
+      <link>http://localhost:1313/test/maestrotaquero/cajero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/cajero/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
       <title>Cajero</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/cajero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/cajero/</guid>
-      <description>Gestionar de manera precisa y eficiente las transacciones financieras del restaurante, asegurando el manejo adecuado de la caja, ofreciendo un servicio amable al cliente y colaborando con el equipo para mantener la operación fluida.</description>
+      <link>http://localhost:1313/test/reclutamiento/cajero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/cajero/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Capitán</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/capit%C3%A1n/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/capit%C3%A1n/</guid>
-      <description>Garantizar una gran experiencia al invitado.</description>
+      <link>http://localhost:1313/test/maestrotaquero/capit%C3%A1n/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/capit%C3%A1n/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
       <title>Capitán</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/capit%C3%A1n/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/capit%C3%A1n/</guid>
-      <description>Supervisar y coordinar las operaciones diarias en el área de servicio, asegurando que el equipo ofrezca una experiencia de alta calidad a los clientes, mientras se mantienen los estándares operativos y se optimizan las funciones del personal.</description>
+      <link>http://localhost:1313/test/reclutamiento/capit%C3%A1n/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/capit%C3%A1n/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Chef</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/chef/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/chef/</guid>
-      <description>Garantizar la ejecución y estándarización de los platillos.</description>
+      <link>http://localhost:1313/test/maestrotaquero/chef/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/chef/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Criterios de Rechazo para Perfiles de Reclutamiento</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</guid>
-      <description>Historial de empleo con duraciones consecutivas de 6 meses o menos en los últimos 3 trabajos, a menos que se deba a circunstancias fuera del control del candidato (por ejemplo, cierre de la empresa o recortes de personal).</description>
+      <title>Chef</title>
+      <link>http://localhost:1313/test/reclutamiento/chef/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/chef/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Cocinero c</title>
+      <link>http://localhost:1313/test/reclutamiento/cocinero_c/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/cocinero_c/</guid>
+      <description>&lt;strong&gt;Objetivo del Puesto&lt;/strong&gt;</description>
+    </item>
+    <item>
+      <title>Comodin</title>
+      <link>http://localhost:1313/test/maestrotaquero/comodin/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/comodin/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Criterios de rechazo para perfiles de reclutamiento</title>
+      <link>http://localhost:1313/test/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</guid>
+      <description>Criterios de Rechazo para Perfiles de Reclutamiento</description>
+    </item>
+    <item>
+      <title>Director de tecnología e innovación</title>
+      <link>http://localhost:1313/test/maestrotaquero/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Director de tecnología e innovación</title>
+      <link>http://localhost:1313/test/reclutamiento/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Encargado de reclutamiento gmt</title>
+      <link>http://localhost:1313/test/encargado_de_reclutamiento_gmt/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/encargado_de_reclutamiento_gmt/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Encargado de reclutamiento perfil</title>
+      <link>http://localhost:1313/test/encargado_de_reclutamiento_perfil/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/encargado_de_reclutamiento_perfil/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Encargado de reclutamiento sintesis</title>
+      <link>http://localhost:1313/test/encargado_de_reclutamiento_sintesis/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/encargado_de_reclutamiento_sintesis/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>Fuentero</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/fuentero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/fuentero/</guid>
-      <description>Preparar y servir aguas frescas, jugos y otros productos relacionados, manteniendo la calidad y frescura de las bebidas, y asegurando que se sirvan de manera eficiente y con una excelente presentación.</description>
+      <link>http://localhost:1313/test/maestrotaquero/fuentero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/fuentero/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Fuentero (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/fuentero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/fuentero/</guid>
-      <description>Preparar y servir aguas frescas y postres, manteniendo la calidad y limpieza en todo momento.</description>
+      <title>Fuentero</title>
+      <link>http://localhost:1313/test/reclutamiento/fuentero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/fuentero/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Gerente de Marca (HOY)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-marca-hoy/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-marca-hoy/</guid>
-      <description>Supervisión y Operaciones, Gestión de Personal, Ventas y Marketing, Ambiente y Cultura Laboral, Gestión de Recursos y Mantenimiento.</description>
+      <title>Garrotero</title>
+      <link>http://localhost:1313/test/reclutamiento/garrotero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/garrotero/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Gerente de Marca (Maestro Taquero - Don Frank)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/gerente_de_marca/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/gerente_de_marca/</guid>
-      <description>Gestionar efectivamente las operaciones de todas sus unidades.</description>
+      <title>Gerente de marca</title>
+      <link>http://localhost:1313/test/maestrotaquero/gerente_de_marca/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/gerente_de_marca/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Gerente de Unidad</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/gerente-de-unidad/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/gerente-de-unidad/</guid>
-      <description>Dirigir y supervisar la operación diaria de la unidad, asegurando el cumplimiento de los objetivos de ventas, la gestión eficiente del personal y la excelencia en el servicio al cliente, manteniendo los estándares de calidad y eficiencia operativa.</description>
+      <title>Gerente de marca (hoy)</title>
+      <link>http://localhost:1313/test/maestrotaquero/gerente-de-marca-hoy/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/gerente-de-marca-hoy/</guid>
+      <description>Gerente de Marca (HOY)</description>
     </item>
     <item>
-      <title>Gerente de Unidad (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-unidad/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-unidad/</guid>
-      <description>Planear, organizar, dirigir y controlar la unidad, manteniendo e incrementando las ventas.</description>
+      <title>Gerente de unidad</title>
+      <link>http://localhost:1313/test/maestrotaquero/gerente-de-unidad/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/gerente-de-unidad/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Hostess (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/hostess/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/hostess/</guid>
-      <description>Garantizar una excelente experiencia del invitado.</description>
+      <title>Gerente de unidad</title>
+      <link>http://localhost:1313/test/reclutamiento/gerente-de-unidad/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/gerente-de-unidad/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Jefe de Barra (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/jefe_de_barra/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/jefe_de_barra/</guid>
-      <description>Garantizar la ejecución y estándarización de las bebidas.</description>
+      <title>Hostess</title>
+      <link>http://localhost:1313/test/maestrotaquero/hostess/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/hostess/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Jefe de Puerta  (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/jefe-de-puerta/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/jefe-de-puerta/</guid>
-      <description>Garantizar una excelente experiencia del invitado.</description>
+      <title>Hostess</title>
+      <link>http://localhost:1313/test/reclutamiento/hostess/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/hostess/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Jefe de barra</title>
+      <link>http://localhost:1313/test/maestrotaquero/jefe_de_barra/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/jefe_de_barra/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Jefe de barra</title>
+      <link>http://localhost:1313/test/reclutamiento/jefe-de-barra/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/jefe-de-barra/</guid>
+      <description>Objetivo del Puesto</description>
+    </item>
+    <item>
+      <title>Jefe de puerta</title>
+      <link>http://localhost:1313/test/maestrotaquero/jefe-de-puerta/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/jefe-de-puerta/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Jefe de puerta</title>
+      <link>http://localhost:1313/test/reclutamiento/jefe-de-puerta/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/jefe-de-puerta/</guid>
+      <description>Objetivo del Puesto**</description>
     </item>
     <item>
       <title>Lavaloza</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/lavaloza/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/lavaloza/</guid>
-      <description>Mantener todos los platos, utensilios y cristalería limpios y organizados, asegurando que el restaurante cuente con el equipo necesario para un servicio eficiente.</description>
+      <link>http://localhost:1313/test/reclutamiento/lavaloza/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/lavaloza/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Limpieza (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/limpieza/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/limpieza/</guid>
-      <description>Mantener todas las áreas del restaurante limpias y ordenadas.</description>
+      <title>Limpieza</title>
+      <link>http://localhost:1313/test/maestrotaquero/limpieza/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/limpieza/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Loza (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/loza/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/loza/</guid>
-      <description>Mantener loza, plaque, cristalería y utensilios, limpios y organizados.</description>
+      <title>Loza</title>
+      <link>http://localhost:1313/test/maestrotaquero/loza/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/loza/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Pastor</title>
+      <link>http://localhost:1313/test/maestrotaquero/pastor/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/pastor/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
       <title>Pastorero</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/pastorero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/pastorero/</guid>
-      <description>Preparar y cocinar tacos al pastor, asegurando que el trompo esté montado correctamente y que la carne se cocine y sirva de manera uniforme, cumpliendo con los estándares de calidad del restaurante.</description>
-    </item>
-    <item>
-      <title>Pastorero (Maestro Taquero - Don Frank)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/pastor/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/pastor/</guid>
-      <description>Preparar y cocinar tacos de pastor y productos derivados de manera correcta y con buena presentación.</description>
+      <link>http://localhost:1313/test/reclutamiento/pastorero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/pastorero/</guid>
+      <description>&lt;strong&gt;Objetivo del Puesto&lt;/strong&gt;</description>
     </item>
     <item>
       <title>Planchero</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/planchero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/planchero/</guid>
-      <description>Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costras, burritos, gringas, y carnes, asegurando que todos los platillos cumplan con los estándares de calidad y presentación del restaurante.</description>
+      <link>http://localhost:1313/test/maestrotaquero/planchero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/planchero/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Planchero (Maestro Taquero - Don Frank)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/planchero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/planchero/</guid>
-      <description>Cocinar los alimentos en la plancha de manera correcta y asegurarse de que los platillos estén bien preparados y presentados.</description>
+      <title>Planchero</title>
+      <link>http://localhost:1313/test/reclutamiento/planchero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/planchero/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Producción (Maestro Taquero - Don Frank)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/producci%C3%B3n/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/producci%C3%B3n/</guid>
-      <description>Preparar los ingredientes y productos necesarios para que la cocina funcione sin problemas durante el servicio.</description>
+      <title>Producción</title>
+      <link>http://localhost:1313/test/maestrotaquero/producci%C3%B3n/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/producci%C3%B3n/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Recursos Humanos</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/recursos-humanos/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/recursos-humanos/</guid>
-      <description>Revisiones de CV&amp;rsquo;s, entrevistas, gestión de personal y reportes.</description>
+      <title>Readme</title>
+      <link>http://localhost:1313/test/readme/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/readme/</guid>
+      <description>No hay resumen</description>
     </item>
     <item>
-      <title>Runner (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/runner---garrotero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/runner---garrotero/</guid>
-      <description>Llevar los alimentos lo más rápido posible a la mesa del invitado.</description>
+      <title>Recursos humanos</title>
+      <link>http://localhost:1313/test/maestrotaquero/recursos-humanos/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/recursos-humanos/</guid>
+      <description>Recursos Humanos</description>
     </item>
     <item>
-      <title>Secuencia de Servicio para Meseros y Vendedores en DON FRANK</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/secuencia_de_servicio/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/secuencia_de_servicio/</guid>
-      <description>Secuencia de Servicio para Meseros y Vendedores en DON FRANK</description>
+      <title>Runner</title>
+      <link>http://localhost:1313/test/reclutamiento/runner/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/runner/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Suadero/Cabeza/Tripa</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/suadero-cabeza-tripa/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/suadero-cabeza-tripa/</guid>
-      <description>Preparar y cocinar tacos de suadero, cabeza, y tripa, asegurando que todos los productos derivados cumplan con los estándares de calidad y presentación del restaurante.</description>
+      <title>Runner   garrotero</title>
+      <link>http://localhost:1313/test/maestrotaquero/runner---garrotero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/runner---garrotero/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Suadero/Cabeza/Tripa (Maestro Taquero - Don Frank)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/suadero/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/suadero/</guid>
-      <description>Preparar y cocinar tacos y productos derivados de suadero, cabeza, y tripa, ejecutando con buena calidad y presentación.</description>
+      <title>Secuencia de servicio</title>
+      <link>http://localhost:1313/test/maestrotaquero/secuencia_de_servicio/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/secuencia_de_servicio/</guid>
+      <description>Servicio en mesa</description>
+    </item>
+    <item>
+      <title>Suadero</title>
+      <link>http://localhost:1313/test/maestrotaquero/suadero/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/suadero/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Suadero cabeza tripa</title>
+      <link>http://localhost:1313/test/reclutamiento/suadero-cabeza-tripa/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/suadero-cabeza-tripa/</guid>
+      <description>&lt;strong&gt;Objetivo del Puesto&lt;/strong&gt;</description>
     </item>
     <item>
       <title>Tortas</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/tortas/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/tortas/</guid>
-      <description>Preparar tortas y los platillos asignados a esa área, asegurando que todo se ejecute correctamente.</description>
+      <link>http://localhost:1313/test/maestrotaquero/tortas/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/tortas/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Tortillas/Huaraches (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/tortillas/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/tortillas/</guid>
-      <description>Preparar tortillas frescas y otros productos de masa para que estén siempre listos y en su mejor calidad durante el servicio.</description>
+      <title>Tortillas</title>
+      <link>http://localhost:1313/test/maestrotaquero/tortillas/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/tortillas/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
       <title>Tortillera</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/tortillera/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/tortillera/</guid>
-      <description>Preparar y cocinar tortillas, sopes, y quesadillas de manera artesanal, asegurando que todos los productos cumplan con los estándares de calidad y se sirvan frescos y en el tiempo adecuado.</description>
+      <link>http://localhost:1313/test/reclutamiento/tortillera/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/tortillera/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
-      <title>Vendedor - Don Frank</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/vendedor---df/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/vendedor---df/</guid>
-      <description>Optimizar la venta y el servicio</description>
+      <title>Valores del equipo</title>
+      <link>http://localhost:1313/test/valores_del_equipo/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/valores_del_equipo/</guid>
+      <description>Habilidades y cultura del grupo</description>
     </item>
     <item>
-      <title>Vendedor / Mesero (Maestro Taquero)</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/vendedor/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/vendedor/</guid>
-      <description>Optimizar la venta y el servicio, ajustar nuestro comportamiento, lenguaje, tono y enfoque en función de nuestro invitado.</description>
+      <title>Vendedor</title>
+      <link>http://localhost:1313/test/maestrotaquero/vendedor/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/vendedor/</guid>
+      <description>Objetivo Principal</description>
     </item>
     <item>
-      <title>Vendedor Don Frank</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/vendedor-don-frank/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/vendedor-don-frank/</guid>
-      <description>Brindar una excelente experiencia al comensal, desde la presentación del lugar y sus productos hasta la oferta de alimentos y bebidas, asegurando que el cliente se sienta bien atendido y satisfecho.</description>
+      <title>Vendedor   df</title>
+      <link>http://localhost:1313/test/maestrotaquero/vendedor---df/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/vendedor---df/</guid>
+      <description>Objetivo Principal</description>
+    </item>
+    <item>
+      <title>Vendedor don frank</title>
+      <link>http://localhost:1313/test/reclutamiento/vendedor-don-frank/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/reclutamiento/vendedor-don-frank/</guid>
+      <description>Objetivo del Puesto</description>
     </item>
     <item>
       <title>About</title>
@@ -301,13 +413,6 @@
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
       <guid>http://localhost:1313/test/prose/</guid>
       <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
-    </item>
-    <item>
-      <title>Valores del equipo</title>
-      <link>http://localhost:1313/test/maestrotaquero/posiciones/valores-equipo/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/posiciones/valores-equipo/</guid>
-      <description>Habilidades y cultura del grupo 1. Trabajo en Equipo Si nos ayudamos, nos hacemos el trabajo más fácil. A la gente no se le reprende, se le orienta. 2. Compromiso con la Calidad Hacer el máximo de tus capacidades. Haz lo mejor que puedas con las herramientas que tengas. Obsesión por el detalle. 3. Responsabilidad Vuelvete irremplazable. Responzabilizarte del error te ayuda a mejorar. 4. Higiene y Seguridad Seguir normas de higiene y seguridad Mantenimiento de un Entorno Limpio 5.</description>
     </item>
   </channel>
 </rss>

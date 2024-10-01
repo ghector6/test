@@ -2,137 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</loc>
-    <lastmod>2024-09-30T18:30:18-06:00</lastmod>
+    <loc>http://localhost:1313/test/alineacion/</loc>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/ayudante-general/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/barback/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/barback/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/bartender/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/bartender/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/tags/blog/</loc>
-    <lastmod>2024-09-30T18:30:18-06:00</lastmod>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/categories/blog/</loc>
-    <lastmod>2024-09-30T18:30:18-06:00</lastmod>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/cajero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/cajero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/capit%C3%A1n/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/capit%C3%A1n/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/categories/</loc>
-    <lastmod>2024-09-30T18:30:18-06:00</lastmod>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/chef/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/chef/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/cocinero_c/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/comodin/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/director_de_tecnolog%C3%ADa_e_innovaci%C3%B3n/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/encargado_de_reclutamiento_gmt/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/encargado_de_reclutamiento_perfil/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/encargado_de_reclutamiento_sintesis/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/fuentero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/fuentero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/garrotero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/gerente_de_marca/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/gerente-de-marca-hoy/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/gerente-de-unidad/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/gerente-de-unidad/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/hostess/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/hostess/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/jefe_de_barra/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/jefe-de-barra/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/jefe-de-puerta/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/jefe-de-puerta/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/lavaloza/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/limpieza/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/loza/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/</loc>
-    <lastmod>2024-09-30T21:44:42-06:00</lastmod>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/maestrotaquero/</loc>
-    <lastmod>2024-09-30T21:44:42-06:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/pastor/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/pastorero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/planchero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/planchero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/producci%C3%B3n/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/readme/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/recursos-humanos/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/runner/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/runner---garrotero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/secuencia_de_servicio/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/maestrotaquero/suadero/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/test/reclutamiento/suadero-cabeza-tripa/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/tags/</loc>
-    <lastmod>2024-09-30T18:30:18-06:00</lastmod>
+    <lastmod>2024-10-01T15:14:29-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/comodin/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/maestrotaquero/tortas/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/barback/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/maestrotaquero/tortillas/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/bartender/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/reclutamiento/tortillera/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/cajero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/valores_del_equipo/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/cajero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/maestrotaquero/vendedor/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/capit%C3%A1n/</loc>
-    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+    <loc>http://localhost:1313/test/maestrotaquero/vendedor---df/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/capit%C3%A1n/</loc>
-    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/chef/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/criterios-de-rechazo-para-perfiles-de-reclutamiento/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/fuentero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/fuentero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-marca-hoy/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/gerente_de_marca/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/gerente-de-unidad/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/gerente-de-unidad/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/hostess/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/jefe_de_barra/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/jefe-de-puerta/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/lavaloza/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/limpieza/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/loza/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/pastorero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/pastor/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/planchero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/planchero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/producci%C3%B3n/</loc>
-    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/recursos-humanos/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/runner---garrotero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/secuencia_de_servicio/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/suadero-cabeza-tripa/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/suadero/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/tortas/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/tortillas/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/tortillera/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/vendedor---df/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/vendedor/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/reclutamiento/vendedor-don-frank/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
+    <loc>http://localhost:1313/test/reclutamiento/vendedor-don-frank/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/about/</loc>
     <lastmod>2024-09-16T21:28:39-06:00</lastmod>
@@ -141,12 +195,6 @@
     <lastmod>2024-09-16T21:28:39-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test/prose/</loc>
-    <lastmod>2024-09-16T21:28:39-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/maestrotaquero/posiciones/valores-equipo/</loc>
-    <lastmod>2024-09-30T21:44:42-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/test/alineacion/</loc>
     <lastmod>2024-09-16T21:28:39-06:00</lastmod>
   </url>
 </urlset>
