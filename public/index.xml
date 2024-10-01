@@ -6,15 +6,8 @@
     <description>Recent content on Maestro Taquero</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 15:14:29 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:35:35 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alineacion</title>
-      <link>http://localhost:1313/test/alineacion/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test/alineacion/</guid>
-      <description>No hay resumen</description>
-    </item>
     <item>
       <title>Ayudante general</title>
       <link>http://localhost:1313/test/reclutamiento/ayudante-general/</link>
@@ -413,6 +406,13 @@
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
       <guid>http://localhost:1313/test/prose/</guid>
       <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/test/alineacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/alineacion/</guid>
+      <description>La alineación de personal es un proceso fundamental en la gestión de nuestro grupo, especialmente en entornos dinámicos y orientados al servicio al cliente como Maestro Taquero. Aquí te explico por qué es tan importante:&#xA;1. Coordinación y Eficiencia Operativa Optimización de Recursos: Asegura que cada miembro del equipo esté en el lugar correcto y desempeñando la función adecuada según sus habilidades y experiencia. Flujo de Trabajo: Facilita un flujo de trabajo suave y coordinado, minimizando tiempos de espera y asegurando que las tareas se completen de manera eficiente.</description>
     </item>
   </channel>
 </rss>

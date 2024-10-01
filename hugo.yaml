@@ -157,7 +157,7 @@ menu:
       weight: 10
     - identifier: about
       name: Valores de la empresa
-      url: /maestrotaquero/posiciones/valores-equipo
+      url: /valores_del_equipo
       weight: 20
     - identifier: categories
       pre: dropdown
@@ -202,7 +202,7 @@ menu:
   footer:
     - identifier: about
       name: Nosotros
-      url: /maestrotaquero/posiciones/valores-equipo
+      url: /valores_del_equipo
       weight: 10
     - identifier: blog
       name: Puestos
