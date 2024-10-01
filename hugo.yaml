@@ -200,25 +200,25 @@ menu:
       weight: 30
   footer:
     - identifier: about
-      name: About
-      url: /about/
+      name: Nosotros
+      url: /maestrotaquero/posiciones/valores-equipo
       weight: 10
     - identifier: blog
-      name: Blog
+      name: Puestos
       url: /categories/blog/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
-      weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
+    # - identifier: news
+    #   name: News
+    #   url: /categories/news/
+    #   weight: 30
+    # - identifier: prose
+    #   name: Prose
+    #   url: /prose/
+    #   weight: 40
+    # - identifier: contact
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 50
 
 markup:
   goldmark:
