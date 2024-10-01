@@ -82,35 +82,7 @@
                 Valores de la empresa
             </a>
               
-            <div @click.away="open = false" class="relative" x-data="{ open: false }">
-                <button @click="open = !open"
-                    class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-amber-600 focus:bg-amber-700 focus:outline-none focus:shadow-outline">
-                    <span>Maestro Taquero</span>
-                    <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}"
-                        class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
-                        <path fill-rule="evenodd"
-                            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-                            clip-rule="evenodd"></path>
-                    </svg>
-                </button>
-                <div x-show="open" x-transition:enter="transition ease-out duration-100"
-                    x-transition:enter-start="transform opacity-0 scale-95"
-                    x-transition:enter-end="transform opacity-100 scale-100"
-                    x-transition:leave="transition ease-in duration-75"
-                    x-transition:leave-start="transform opacity-100 scale-100"
-                    x-transition:leave-end="transform opacity-0 scale-95"
-                    class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48">
-                    <div class="px-2 py-2 text-primary-900 bg-white rounded-md shadow">
-                        
-                        <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-amber-600 focus:bg-amber-700 focus:outline-none focus:shadow-outline"
-                            href="http://localhost:1313/test/blog/">Puestos</a>
-                        
-                        <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-amber-600 focus:bg-amber-700 focus:outline-none focus:shadow-outline"
-                            href="http://localhost:1313/test/about/">Reclutamiento</a>
-                        
-                    </div>
-                </div>
-            </div>
+            
               
                
             <button id="theme-toggle" type="button"
@@ -145,7 +117,7 @@
         <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
             
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/posiciones/jefe-de-puerta/">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/recursos-humanos/">
                     
                     
                     
@@ -157,114 +129,12 @@
                 </a>
                 <div class="p-6">
                     <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/jefe-de-puerta/"
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/recursos-humanos/"
                            class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Jefe de Puerta  (Maestro Taquero)
+                            Recursos Humanos
                         </a>
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Garantizar una excelente experiencia del invitado.
-                        </p>
-                    </div>
-                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                        <span class="pr-2 font-black">Tags:</span>
-                        <span>
-                        <a href="http://localhost:1313/test/tags/blog/"
-                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
-                    </div>
-                    <div class="flex items-center mt-6">
-                        <div class="flex-shrink-0">
-                            <span class="sr-only">Meastro Taquero</span>
-                            
-                            
-                            
-                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
-                            
-                            
-                        </div>
-                        <div class="pt-1 ml-3">
-                            <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                Meastro Taquero
-                            </p>
-                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
-                                <span aria-hidden="true">&middot;</span>
-                                <span>2 min read</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/lavaloza/">
-                    
-                    
-                    
-                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
-                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
-
-                    
-                    
-                </a>
-                <div class="p-6">
-                    <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/lavaloza/"
-                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Lavaloza
-                        </a>
-                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Mantener todos los platos, utensilios y cristalería limpios y organizados, asegurando que el restaurante cuente con el equipo necesario para un servicio eficiente.
-                        </p>
-                    </div>
-                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                        <span class="pr-2 font-black">Tags:</span>
-                        <span>
-                        <a href="http://localhost:1313/test/tags/blog/"
-                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
-                    </div>
-                    <div class="flex items-center mt-6">
-                        <div class="flex-shrink-0">
-                            <span class="sr-only">Meastro Taquero</span>
-                            
-                            
-                            
-                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
-                            
-                            
-                        </div>
-                        <div class="pt-1 ml-3">
-                            <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                Meastro Taquero
-                            </p>
-                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
-                                <span aria-hidden="true">&middot;</span>
-                                <span>1 min read</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/posiciones/limpieza/">
-                    
-                    
-                    
-                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
-                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
-
-                    
-                    
-                </a>
-                <div class="p-6">
-                    <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/limpieza/"
-                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Limpieza (Maestro Taquero)
-                        </a>
-                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Mantener todas las áreas del restaurante limpias y ordenadas.
+                            Revisiones de CV&#39;s, entrevistas, gestión de personal y reportes.
                         </p>
                     </div>
                     <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
@@ -298,7 +168,7 @@
             </div>
             
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/posiciones/loza/">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/runner---garrotero/">
                     
                     
                     
@@ -310,12 +180,12 @@
                 </a>
                 <div class="p-6">
                     <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/loza/"
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/runner---garrotero/"
                            class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Loza (Maestro Taquero)
+                            Runner (Maestro Taquero)
                         </a>
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Mantener loza, plaque, cristalería y utensilios, limpios y organizados.
+                            Llevar los alimentos lo más rápido posible a la mesa del invitado.
                         </p>
                     </div>
                     <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
@@ -349,7 +219,7 @@
             </div>
             
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/pastorero/">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/secuencia_de_servicio/">
                     
                     
                     
@@ -361,12 +231,63 @@
                 </a>
                 <div class="p-6">
                     <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/pastorero/"
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/secuencia_de_servicio/"
                            class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Pastorero
+                            Secuencia de Servicio para Meseros y Vendedores en DON FRANK
                         </a>
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Preparar y cocinar tacos al pastor, asegurando que el trompo esté montado correctamente y que la carne se cocine y sirva de manera uniforme, cumpliendo con los estándares de calidad del restaurante.
+                            Secuencia de Servicio para Meseros y Vendedores en DON FRANK
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="http://localhost:1313/test/tags/blog/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Meastro Taquero</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Meastro Taquero
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>8 min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/suadero-cabeza-tripa/">
+                    
+                    
+                    
+                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/suadero-cabeza-tripa/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Suadero/Cabeza/Tripa
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Preparar y cocinar tacos de suadero, cabeza, y tripa, asegurando que todos los productos derivados cumplan con los estándares de calidad y presentación del restaurante.
                         </p>
                     </div>
                     <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
@@ -400,7 +321,7 @@
             </div>
             
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="http://localhost:1313/test/maestrotaquero/posiciones/pastor/">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/suadero/">
                     
                     
                     
@@ -412,12 +333,216 @@
                 </a>
                 <div class="p-6">
                     <div class="flex-1">
-                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/pastor/"
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/suadero/"
                            class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            Pastorero (Maestro Taquero - Don Frank)
+                            Suadero/Cabeza/Tripa (Maestro Taquero - Don Frank)
                         </a>
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            Preparar y cocinar tacos de pastor y productos derivados de manera correcta y con buena presentación.
+                            Preparar y cocinar tacos y productos derivados de suadero, cabeza, y tripa, ejecutando con buena calidad y presentación.
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="http://localhost:1313/test/tags/blog/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Meastro Taquero</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Meastro Taquero
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1 min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/tortas/">
+                    
+                    
+                    
+                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/tortas/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Tortas
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Preparar tortas y los platillos asignados a esa área, asegurando que todo se ejecute correctamente.
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="http://localhost:1313/test/tags/blog/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Meastro Taquero</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Meastro Taquero
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1 min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/tortillas/">
+                    
+                    
+                    
+                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/tortillas/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Tortillas/Huaraches (Maestro Taquero)
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Preparar tortillas frescas y otros productos de masa para que estén siempre listos y en su mejor calidad durante el servicio.
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="http://localhost:1313/test/tags/blog/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Meastro Taquero</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Meastro Taquero
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>0 min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/tortillera/">
+                    
+                    
+                    
+                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="http://localhost:1313/test/maestrotaquero/reclutamiento/tortillera/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Tortillera
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Preparar y cocinar tortillas, sopes, y quesadillas de manera artesanal, asegurando que todos los productos cumplan con los estándares de calidad y se sirvan frescos y en el tiempo adecuado.
+                        </p>
+                    </div>
+                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                        <span class="pr-2 font-black">Tags:</span>
+                        <span>
+                        <a href="http://localhost:1313/test/tags/blog/"
+                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">Blog</a></span>
+                    </div>
+                    <div class="flex items-center mt-6">
+                        <div class="flex-shrink-0">
+                            <span class="sr-only">Meastro Taquero</span>
+                            
+                            
+                            
+                            <img class="w-10 h-10 rounded-full" src="/test/../assets/images/site-logo_hua1bf1e2d5b7b494a428d2d2e1ef6dd1a_23575_40x0_resize_q75_h2_box_3.webp" alt="">
+                            
+                            
+                        </div>
+                        <div class="pt-1 ml-3">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">
+                                Meastro Taquero
+                            </p>
+                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
+                                <time datetime="2022-06-18T11:10:36&#43;08:00">2022-06-18</time>
+                                <span aria-hidden="true">&middot;</span>
+                                <span>1 min read</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                <a href="http://localhost:1313/test/maestrotaquero/posiciones/vendedor---df/">
+                    
+                    
+                    
+                    <img src="http://localhost:1313/assets/images/featured/blogcard_hu6a69250dd436aba680cbb742e55486e2_410517_500x0_resize_q90_h2_box_3.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
+                         loading="lazy" alt="/../assets/images/featured/blogcard.png" />
+
+                    
+                    
+                </a>
+                <div class="p-6">
+                    <div class="flex-1">
+                        <a href="http://localhost:1313/test/maestrotaquero/posiciones/vendedor---df/"
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                            Vendedor - Don Frank
+                        </a>
+                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                            Optimizar la venta y el servicio
                         </p>
                     </div>
                     <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
@@ -516,22 +641,6 @@
             </a>
             
             
-            
-            
-            
-            <a class="page-item"><a href="/test/categories/blog/page/6/"
-                    class="inline-flex items-center px-4 pt-4 text-lg font-medium text-orange-600 dark:text-orange-500">6</a>
-            </a>
-            
-            
-            
-            
-            
-            <a class="page-item disabled"><a
-                    class="inline-flex items-center px-4 pt-4 text-lg font-medium text-orange-600 dark:text-orange-500">...</a>
-            </a>
-            
-            
 
             
             <a class="page-item"><a href="/test/categories/blog/page/5/" rel="next"
@@ -540,10 +649,6 @@
             
 
             
-            
-            <a class="page-item"><a href="/test/categories/blog/page/7/" rel="last"
-                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-orange-600 dark:text-orange-500">Last
-                    »</a></a>
             
         </div>
 </nav>

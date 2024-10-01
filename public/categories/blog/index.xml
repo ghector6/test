@@ -6,21 +6,21 @@
     <description>Recent content in Blog on Maestro Taquero</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 18:45:50 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 20:07:24 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/test/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ayudante General</title>
+      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</link>
+      <pubDate>Wed, 25 Sep 2024 10:31:23 +0800</pubDate>
+      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</guid>
+      <description>Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.</description>
+    </item>
     <item>
       <title>Ayudante General</title>
       <link>http://localhost:1313/test/maestrotaquero/posiciones/comodin/</link>
       <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
       <guid>http://localhost:1313/test/maestrotaquero/posiciones/comodin/</guid>
       <description>Apoyar en las áreas del restaurante para la óptima operación.</description>
-    </item>
-    <item>
-      <title>Ayudante General</title>
-      <link>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</guid>
-      <description>Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.</description>
     </item>
     <item>
       <title>Barback</title>

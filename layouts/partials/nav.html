@@ -87,7 +87,7 @@
                 </div>
             </div>
             */}} {{ else if (eq "dropdown" .Pre) }}
-            <div @click.away="open = false" class="relative" x-data="{ open: false }">
+            {{/*  <div @click.away="open = false" class="relative" x-data="{ open: false }">
                 <button @click="open = !open"
                     class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-amber-600 focus:bg-amber-700 focus:outline-none focus:shadow-outline">
                     <span>{{ .Name }}</span>
@@ -112,7 +112,7 @@
                         {{ end }}
                     </div>
                 </div>
-            </div>
+            </div>  */}}
             {{ else }}
             <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-amber-600 focus:bg-amber-700 focus:outline-none focus:shadow-outline"
                 href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
