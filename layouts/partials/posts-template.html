@@ -2,7 +2,7 @@
     <div class="px-4 not-prose">
         <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
             {{ range .Paginator.Pages }}
-            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-stone-900">
                 <a href="{{.Permalink | absURL}}">
                     {{ with .Params.featured_image }}
                     {{ with resources.Get . }}
@@ -16,7 +16,7 @@
                 <div class="p-6">
                     <div class="flex-1">
                         <a href="{{.Permalink}}"
-                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-orange-600 hover:underline">
                             {{.Title}}
                         </a>
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
@@ -50,7 +50,7 @@
                             <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
                                 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
                                 <span aria-hidden="true">&middot;</span>
-                                <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span>
+                                <span>{{ math.Round (div (countwords .Content) 220.0) }} min </span>
                             </div>
                         </div>
                     </div>
