@@ -9,11 +9,18 @@
     <lastBuildDate>Mon, 30 Sep 2024 21:44:42 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ayudante General</title>
+      <title>Alineacion</title>
+      <link>http://localhost:1313/test/alineacion/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/alineacion/</guid>
+      <description>No hay resumen</description>
+    </item>
+    <item>
+      <title>Ayudante general</title>
       <link>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</link>
-      <pubDate>Wed, 25 Sep 2024 10:31:23 +0800</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/test/maestrotaquero/reclutamiento/ayudante-general/</guid>
-      <description>Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.</description>
+      <description>Ayudante General</description>
     </item>
     <item>
       <title>Ayudante General</title>
@@ -301,13 +308,6 @@
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
       <guid>http://localhost:1313/test/maestrotaquero/posiciones/valores-equipo/</guid>
       <description>Habilidades y cultura del grupo 1. Trabajo en Equipo Si nos ayudamos, nos hacemos el trabajo más fácil. A la gente no se le reprende, se le orienta. 2. Compromiso con la Calidad Hacer el máximo de tus capacidades. Haz lo mejor que puedas con las herramientas que tengas. Obsesión por el detalle. 3. Responsabilidad Vuelvete irremplazable. Responzabilizarte del error te ayuda a mejorar. 4. Higiene y Seguridad Seguir normas de higiene y seguridad Mantenimiento de un Entorno Limpio 5.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/test/alineacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/test/alineacion/</guid>
-      <description>La alineación de personal es un proceso fundamental en la gestión de nuestro grupo, especialmente en entornos dinámicos y orientados al servicio al cliente como Maestro Taquero. Aquí te explico por qué es tan importante:&#xA;1. Coordinación y Eficiencia Operativa Optimización de Recursos: Asegura que cada miembro del equipo esté en el lugar correcto y desempeñando la función adecuada según sus habilidades y experiencia. Flujo de Trabajo: Facilita un flujo de trabajo suave y coordinado, minimizando tiempos de espera y asegurando que las tareas se completen de manera eficiente.</description>
     </item>
   </channel>
 </rss>

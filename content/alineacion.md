@@ -1,3 +1,14 @@
+---
+title: "Alineacion"
+date: "2024-10-01"
+draft: "false"
+summary: "No hay resumen"
+description: "No hay descripción"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 La alineación de personal es un proceso fundamental en la gestión de nuestro grupo, especialmente en entornos dinámicos y orientados al servicio al cliente como Maestro Taquero. Aquí te explico por qué es tan importante:
 
 #### 1. **Coordinación y Eficiencia Operativa**

@@ -1,10 +1,8 @@
 require 'date'
 require 'find'
 
-#print name of the file to the console
 dir = 'content/'
 # files = Dir.glob("#{dir}**/*.md")
-
 # files.each do |file|
 #   puts file
 # end 
@@ -63,8 +61,17 @@ Find.find(dir) do |file_path|
   summary ||= 'No hay resumen'
   description ||= 'No hay descripción'
 
-  front_matter = generate_front_matter(file_name, summary, description)
-  puts front_matter
+  unless content.start_with?('---')
+    front_matter = generate_front_matter(file_name, summary, description)
+    File.open(file_path, 'w') do |file|
+      file.write(front_matter + content)
+    end
+    puts "Added front matter to #{file_name}"
+  end
+
+
+  # front_matter = generate_front_matter(file_name, summary, description)
+  # puts front_matter
 end
 
 
