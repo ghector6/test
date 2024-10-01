@@ -33,11 +33,10 @@ def generate_front_matter(file_name, summary, description)
   front_matter
 end
 
-Dir.foreach(dir) do |file_name|
-  next unless file_name.end_with?('.md')
+Find.find(dir) do |file_path|
+  next unless file_path.end_with?('.md')
 
-  file_path = File.join(dir, file_name)
-
+  file_name = File.basename(file_path)
   content = File.read(file_path)
 
   summary = nil
